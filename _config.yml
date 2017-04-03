@@ -16,3 +16,5 @@ github_username:  hnewbie
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
